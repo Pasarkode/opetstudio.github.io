@@ -1,0 +1,25 @@
+{
+  "name": "opetstudio.github.io",
+  "version": "1.0.0",
+  "description": "my page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opetstudio/opetstudio.github.io.git"
+  },
+  "keywords": [
+    "Opetstudio"
+  ],
+  "author": "opetstudio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opetstudio/opetstudio.github.io/issues"
+  },
+  "homepage": "https://github.com/opetstudio/opetstudio.github.io#readme",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
