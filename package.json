@@ -1,25 +1,31 @@
 {
   "name": "opetstudio.github.io",
-  "version": "1.0.0",
-  "description": "my page",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/opetstudio/opetstudio.github.io.git"
-  },
-  "keywords": [
-    "Opetstudio"
-  ],
-  "author": "opetstudio",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/opetstudio/opetstudio.github.io/issues"
-  },
-  "homepage": "https://github.com/opetstudio/opetstudio.github.io#readme",
   "dependencies": {
-    "jquery": "^2.2.4"
-  }
+    "bootstrap": "^3.3.7",
+    "eslint": "^3.8.1",
+    "eslint-config-react-app": "^0.3.0",
+    "eslint-plugin-flowtype": "^2.21.0",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.2",
+    "remarkable": "^1.7.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "homepage": "http://opetstudio.github.io/myapp"
 }

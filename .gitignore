@@ -26,3 +26,19 @@ app/webapp/resources/css/style.css.map
 app/webapp/resources/css/.sass-cache/
 app/webapp/resources/js/libs/bower_components/
 app/webapp/resources/js/libs/bower.json
+
+# dependencies
+node_modules
+
+# testing
+coverage
+
+# production
+#build
+
+# misc
+
+.env
+npm-debug.log
+.gitignore
+.idea/
