@@ -36,7 +36,7 @@ class App extends Component {
                             <Button bsStyle="success" bsSize="small" href="https://facebook.github.io/react/docs/hello-world.html" target="_blank">
                                 Klik, untuk menuju ke halaman documentasi react js
                             </Button><br/>
-                            <Button bsStyle="info" bsSize="small" href="https://facebook.github.io/react/docs/hello-world.html" target="_blank">
+                            <Button bsStyle="info" bsSize="small" href="https://github.com/opetstudio/opetstudio.github.io" target="_blank">
                                 Klik, untuk menuju ke halaman github
                             </Button>
                         </p>
