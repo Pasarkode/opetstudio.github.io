@@ -1,2 +1,2 @@
 # opetstudio.github.io
-My page
+Repositori ini untuk menyimpan source code tutorial react js.
